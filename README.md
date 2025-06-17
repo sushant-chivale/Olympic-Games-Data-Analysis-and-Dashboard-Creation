@@ -1,7 +1,5 @@
 # Olympics Analysis Dashboard with Power BI
 
-[![Olympics Analysis Dashboard](https://github.com/SuryaR08/Olympics-Analysis-Dashboard/blob/main/olym.png)](https://suryar08.github.io/Olympics-Analysis-Dashboard/)
-
 
 ## Dataset
 
